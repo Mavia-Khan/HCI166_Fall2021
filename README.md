@@ -2,6 +2,12 @@
 
 #MAVIA ALAM KHAN  64394 
 
+------------------------------------------------------------------------------------------------------------------------
 #DANIAL MIRZA     64169 
+Hello Sir This is Daniyal Mirza from 6th semester.
+I have studied AI last summer from you which was really good experince.
+AI has thought us alot of things.
+My FYP is also based on Deep learning.
+---------------------------------------------------------------------------------------------------------------------------
 
 #MUNEEB RAFIQUE  64401
