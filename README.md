@@ -9,13 +9,10 @@ Hello sir this is Mavia ALam Khan from 6th ssemester.
 Hello Sir This is Daniyal Mirza from 6th semester.
 I have studied AI last summer from you which was really good experince.
 AI has thought us alot of things.
-My FYP is also based on Deep learningHello Sir This is Daniyal Mirza from 6th semester.
-
-I have studied AI last summer from you which was really good experince.
-
-AI has thought us alot of things.
-
 My FYP is also based on Deep learning
+
+
+
 
 .
 ---------------------------------------------------------------------------------------------------------------------------
