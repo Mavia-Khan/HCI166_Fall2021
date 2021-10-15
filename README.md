@@ -3,6 +3,8 @@
 #MAVIA ALAM KHAN  64394 
 
 Hello sir this is Mavia ALam Khan from 6th ssemester.
+I have studied AI last summer from you which was really good experince.
+AI has thought us a alot of things.
 
 ------------------------------------------------------------------------------------------------------------------------
 #DANIAL MIRZA     64169 
