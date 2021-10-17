@@ -9,3 +9,6 @@ Then I have told about HCI early ages from 1950-present 2021
 -1990-Interface at the work setting - networked systems, groupware 
 -2000 - 2021Interface becomes pervasive – Interactive screens, mobile devices, physical interfaces Mobile and Physical Interaction WS 2010/2011 
 }
+
+vedio description by Mavia Alam Khan 64394
+[I have first talk about the what is HCI and then History in my vedio there are five picture which i campare to HCI and updates]
