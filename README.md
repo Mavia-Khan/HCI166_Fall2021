@@ -13,9 +13,6 @@ I have studied AI last summer from you which was really good experince.
 AI has thought us alot of things.
 My FYP is also based on Deep learning
 
-
-
-
 .
 ---------------------------------------------------------------------------------------------------------------------------
 
