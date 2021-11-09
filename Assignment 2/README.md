@@ -11,4 +11,7 @@ Then I have told about HCI early ages from 1950-present 2021
 }
 
 vedio description by Mavia Alam Khan 64394
-[I have first talk about the what is HCI and then History in my vedio there are five picture which i campare to HCI and its updates]
+
+[I have first talk about the what is HCI and then History in my vedio there are five picture which i campare to HCI and its updates.
+
+ I told about the old computing interaction and now .]
