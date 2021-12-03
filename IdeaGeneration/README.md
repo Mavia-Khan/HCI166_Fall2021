@@ -19,7 +19,9 @@ Independent practice: As students move into small groups to practice their learn
 3. The Split A/B Model
 
 A Group meets Monday and Wednesday
+
 B Group meets Tuesday and Thursday
+
 Friday is off
 
 4. The Virtual Accommodation Model
@@ -30,3 +32,13 @@ Here, you can teach the same lesson you would typically teach but have one stude
 
 Sometimes your in-person activity simply doesn’t connect with what students can do at home. It might involve a specific lab or a maker project. In these rare moments, you might need to do an independent project. Students can learn the same standards and focus on the same learning targets but they do so in a way that is separate from their classmates.
 One alternative is to do an independent project that students can do at home or in-person. For example, you might do a Genius Hour Project:
+
+6.Use links to make your plans interactive
+
+7.Keep The Cameras On
+
+8.Use chat tools for real-time collaboration.
+
+9.Record lectures and upload.
+
+10.Make thinking structured and visible.
