@@ -1,4 +1,4 @@
-10 ideas selected after group discussion
+**10 ideas selected after group discussion**
 
 1.The Differentiated Model
 
