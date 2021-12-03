@@ -2,7 +2,7 @@
 
 1.The Differentiated Model
 
-(However, you design differentiated activities for students who are at home and in person. It works well to make use of both synchronous and asynchronous communication tools for students at home and in person.)
+(The students who are at home and in person. It works well to make use of both synchronous and asynchronous communication tools for students at home and in person.)
 Warm-Up: Students at home and in-person work on a warm-up that you have posted to your learning management system. You can set a timer in-person and online so that students know the time limits. This is often when you take attendance.
 Direct instruction: Students at home view a prerecorded “flipped video” by pressing play on the link you share in the video chat. Everyone in the video conference should be on mute. Meanwhile, you press play on the same video for your students in-person. This allows all students to access it together.
 Guided practice: Students meet together as a whole class. They can submit their questions on a Google Form and you answer them, in the moment, in front of the computer so that students at home can hear. Or, you can allow students to use a wireless microphone and you can hook up the computer to speaker so that students at home can speak to the whole group class and also hear what the in-person class is saying.
