@@ -43,3 +43,8 @@ One alternative is to do an independent project that students can do at home or 
 9.Record lectures and upload.
 
 10.Make thinking structured and visible.
+
+
+
+![hci](https://user-images.githubusercontent.com/53654229/146070019-0352fb4c-b310-4a87-b3b6-306065ef04c6.jpeg)
+
