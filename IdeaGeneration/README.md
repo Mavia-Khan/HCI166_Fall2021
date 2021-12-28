@@ -1,3 +1,15 @@
+![hci](https://user-images.githubusercontent.com/53654229/146070019-0352fb4c-b310-4a87-b3b6-306065ef04c6.jpeg)
+
+
+![WhatsApp Image 2021-12-15 at 12 01 17 PM](https://user-images.githubusercontent.com/66063454/146139282-98749dc7-a7c0-4220-bd93-66797cfdf664.jpeg)
+
+
+
+
+![WhatsApp Image 2021-12-15 at 12 01 18 PM](https://user-images.githubusercontent.com/66063454/146139099-e3c8a1b0-5924-405f-862f-8de55efdae42.jpeg)
+
+
+
 **10 ideas selected after group discussion**
 
 1.The Differentiated Model
@@ -45,14 +57,4 @@ One alternative is to do an independent project that students can do at home or 
 10.Make thinking structured and visible.
 
 
-
-![hci](https://user-images.githubusercontent.com/53654229/146070019-0352fb4c-b310-4a87-b3b6-306065ef04c6.jpeg)
-
-
-![WhatsApp Image 2021-12-15 at 12 01 17 PM](https://user-images.githubusercontent.com/66063454/146139282-98749dc7-a7c0-4220-bd93-66797cfdf664.jpeg)
-
-
-
-
-![WhatsApp Image 2021-12-15 at 12 01 18 PM](https://user-images.githubusercontent.com/66063454/146139099-e3c8a1b0-5924-405f-862f-8de55efdae42.jpeg)
 
