@@ -14,4 +14,5 @@ The split A/B Model
 Live-stream through mobile
 
 
-We will combine ideas 1 and 2 into one because from storyboard we conclude that with the separation of A / B Model recorded videos are also important. If we want the best kind of education under the hybrid system in a poor school, it cannot be done with just one model. There are conflicts whose solutions are different. For smaller conflicts it is better to combine different models and build a good model.
+We will combine ideas 1 and 2 into one because in the news board we conclude that with the division of A / B Model recorded videos are also important. If we want the best kind of education under the poor school hybrid program, it cannot be done with just one model. There are conflicts with their different solutions. For smaller conflicts it is better to combine different models and build a good model.
+
