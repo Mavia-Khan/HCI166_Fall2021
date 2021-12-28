@@ -1,3 +1,31 @@
+BRAINSTORMING Ideas By Daniyal Mirza:
+A Hybrid Classroom System for underprivilege Schools". 
+
+ Double Diamond design model has four stages: Discovery, Definition, Development and Delivery.
+ 
+ Idea 1 = First and most basic get them internet access anyhow.
+ Idea 2 = Get them good pc with headphones and all accessories. 
+ Idea 3 = Aim for consistent communication.
+ Idea 4 = Don't overwhelm with tech tools.
+ Idea 5 = keep quizes on a specific day and time only.
+ Idea 6 = Add more of the slides which could be download so childern can learn without internet too.
+ Idea 7 = Record lectures and upload.
+ Idea 8 = Make class only in day light so no need of lights.
+ Idea 9 = Design clear, detailed instructions.
+ Idea 10 = Make sure students can see and hear
+ Idea 11 = Learn how to project and share your screen.
+ Idea 12 = Use chat tools for real-time collaboration.
+ Idea 13 = Make thinking structured and visible.
+ Idea 14 = Share a daily plan as class begins.
+ Idea 15 = Use links to make your plans interactive
+ Idea 16 = Schedule individual or small-group conferences with remote students
+ Idea 17 = Know your students and let them know you.
+ Idea 18 = Try something new
+ Idea 19 = Manage Your Time In The Classroom Wisely.
+ Idea 20 = Keep The Cameras On
+
+
+
 ![hci](https://user-images.githubusercontent.com/53654229/146070019-0352fb4c-b310-4a87-b3b6-306065ef04c6.jpeg)
 
 
